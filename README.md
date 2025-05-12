@@ -34,7 +34,7 @@ GIF created with LICEcap.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This is only an initial version of the website. The current implementation includes basic functionality for displaying and filtering game information. 
 
 ## License
 
